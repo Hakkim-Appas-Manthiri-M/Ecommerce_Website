@@ -47,7 +47,7 @@ const home = () => {
                     <a class="dropdown-item" href="#">Formal Shirts</a>
                     <a class="dropdown-item" href="#">Causual Shirts</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Inner Wears</a>
+                    <a class="dropdown-item" href="#">Pants</a>
                   </div>
             </li>
             <li class="nav-item dropdown mx-lg-1">
